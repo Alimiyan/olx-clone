@@ -162,3 +162,11 @@
     display: none;
   }
 }
+
+.logout:hover{
+  cursor: pointer;
+}
+
+.loginPage:hover{
+  cursor: pointer;
+}
