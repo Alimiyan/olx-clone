@@ -170,3 +170,7 @@
 .loginPage:hover{
   cursor: pointer;
 }
+
+.brandName:hover{
+  cursor: pointer;
+}
